@@ -2,11 +2,11 @@
 This Repository contain the Machine Learning Algorithms with Mathematical Explanation behind them along with Implementation in Python.
 
 ## 🗂 Articles or Blogs on Machine Learning Algorithms - Fully Explained
-📍 Linear Regression - https://lnkd.in/evx23x3r
-📍 Confusion Matrix - https://lnkd.in/emuG3Xgh
-📍 Logistic Regression - https://lnkd.in/eTPUJBrF
-📍 Regularization Techniques in Machine Learning - https://lnkd.in/e84ZnYxy
-📍 Support Vector Machines - https://lnkd.in/emur_6w5
+- 📍 Linear Regression - https://lnkd.in/evx23x3r
+- 📍 Confusion Matrix - https://lnkd.in/emuG3Xgh
+- 📍 Logistic Regression - https://lnkd.in/eTPUJBrF
+- 📍 Regularization Techniques in Machine Learning - https://lnkd.in/e84ZnYxy
+- 📍 Support Vector Machines - https://lnkd.in/emur_6w5
 
 ### 📺 YouTube Videos List
 #### 💢 Basics of Machine Learning 

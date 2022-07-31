@@ -9,9 +9,9 @@ This Repository contain the Machine Learning Algorithms with Mathematical Explan
 - 📍 Support Vector Machines - https://lnkd.in/emur_6w5
 
 ### 📺 YouTube Videos List
+<!-- YOUTUBE:START -->
 #### 💢 Basics of Machine Learning 
 - [What is Machine Learning ? | Top Machine Learning Algorithms | Data Science and Statistics | Python](https://youtu.be/Dez9YWLPc3A)
-<!-- YOUTUBE:START -->
 
 #### ⭕️ Regression Algorithms
 - [Machine Learning - Linear Regression | Top Machine Learning Algorithms | Data Science and Statistics](https://youtu.be/CUV41LwCpjk)
